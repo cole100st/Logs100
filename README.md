@@ -1,4 +1,4 @@
-# :performing_arts: __Logs100__ V 1.0.0
+# :satellite: __Logs100__ V 1.0.0
 
 -Logs100 est un plugins qui permet d'afficher des logs dans la console.
 
