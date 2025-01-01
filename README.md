@@ -8,7 +8,7 @@
 
 # :bulb:__Téléchargement__ 
 
-- [Logs100](https://github.com/cole100st/Service100/releases/tag/Service100)
+- [Logs100](https://github.com/cole100st/Logs100/releases/tag/Logs100)
 
 # :computer:__Installation__
 
